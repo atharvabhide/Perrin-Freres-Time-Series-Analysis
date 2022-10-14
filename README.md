@@ -1,4 +1,4 @@
-# Perrin-Freres-Time-Series-Analysis
+# Perrin Freres Time Series Analysis
 
 ### Time series analysis on the monthly sales data of Perrin Freres is done.
 ### Model used - SARIMAX (Seasonal Auto Regressive Intergrated Move Average with Exogenous Variables)
